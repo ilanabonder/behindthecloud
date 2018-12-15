@@ -1,0 +1,43 @@
+#my-button{
+  height: 100px;
+  width: 100px;
+  font-family: 'Gothic A1', sans-serif;
+  font-size: 32px;
+  border-color: none;
+  border-radius: 50%;
+  background-color: #ff5252;
+  color: white;
+}
+
+
+#my-button:hover{
+  background-color: #00BFA5;
+}
+
+#my-button-clicked{
+  height: 100px;
+  width: 100px;
+  font-family: 'Gothic A1', sans-serif;
+  font-size: 32px;
+  border-color: none;
+  background-color: #00BFA5;
+  color: white;
+  border-radius: 50%;
+  -webkit-animation: bounce .3s infinite alternate;
+  -moz-animation: bounce .3s infinite alternate;
+  animation: bounce .3s infinite alternate;
+}
+
+#my-button-clicked:hover{
+    background-color: #ff5252;
+}
+
+@-webkit-keyframes bounce {
+  to { -webkit-transform: scale(0.9); }
+}
+@-moz-keyframes bounce {
+  to { -moz-transform: scale(0.9); }
+}
+@keyframes bounce {
+  to { transform: scale(0.9); }
+}

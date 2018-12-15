@@ -1,0 +1,42 @@
+[{
+		"title": "Lithium",
+		"myanswer": "I am the lithium you are mining in Bolivia. A silvery metal used to power mobile connected devices. I am a crucial material used for the production of batteries that exist in your smartphone, a Tesla car, and in this laptop. I originally lived in a natural space, down the earth, until you humans mined me and turned me into battery. 49% of my production comes from a Salar in Southwest Bolivia and my extraction causes mountains of residual sludge that puts the Salars flora and fauna at risk.",
+		"myanswer1": "I am the lithium you are mining in Bolivia. A silvery metal used to power mobile connected devices. I am a crucial material used for the production of batteries that exist in your smartphone, a Tesla car, and in this laptop. I originally lived in a natural space, down the earth, until you humans mined me and turned me into battery.",
+		"myanswer2": "49% of my production comes from a Salar in Southwest Bolivia and my extraction causes mountains of residual sludge that puts the Salars flora and fauna at risk.",
+		"img": "images/lithium.jpg",
+		"gifs": ["gifs/lithium/one.gif", "gifs/lithium/two.gif", "gifs/lithium/three.gif", "gifs/lithium/four.gif", "gifs/lithium/five.gif", "gifs/lithium/six.gif", "gifs/lithium/seven.gif", "gifs/lithium/eight.gif", "gifs/lithium/nine.gif", "gifs/lithium/ten.gif", "gifs/lithium/eleven.gif"]
+	},
+	{
+		"title": "I am you",
+		"myanswer": "You are my consumer, my resource, my worker and even my product. As you interact with me you are also feeding me with your data. The words you say, the language you speak, where you live and go, who you speak to, the pages you search, click, the movies you watch...All is collected, analyzed and retained for the purposes of building the corpse of information that gives me insights on how you live, what you like to use and consume. I need your data to optimize my systems and create better interactions, profit from the knowledge you gave me and, with that, probably also shape the way you behave.",
+		"myanswer1": "You are my consumer, my resource, my worker and even my product. As you interact with me you are also feeding me with your data. The words you say, the language you speak, where you live and go, who you speak to, the pages you search, click, the movies you watch...",
+		"myanswer2": "All is collected, analyzed and retained for the purposes of building the corpse of information that gives me insights on how you live, what you like to use and consume. I need your data to optimize my systems and create better interactions, profit from the knowledge you gave me and, with that, probably also shape the way you behave.",
+		"img": "images/you.jpg",
+		"gifs": ["gifs/iamyou/one.gif", "gifs/iamyou/two.gif", "gifs/iamyou/three.gif", "gifs/iamyou/four.gif", "gifs/iamyou/five.gif", "gifs/iamyou/six.gif", "gifs/iamyou/seven.gif", "gifs/iamyou/eight.gif", "gifs/iamyou/nine.gif", "gifs/iamyou/ten.gif", "gifs/iamyou/eleven.gif"]
+	},
+	{
+		"title": "E-Waste",
+		"myanswer": "I am all the E-Waste you throw in the world. Your complex and miniaturized technologies rely on different resources but mainly the use of rare metals. Most of the hardware you use has a fast-burn life cycle that reduces powerful, must-have devices to near-useless relics within a few years. And where do those go? In the U.S. alone, over 140 million cell phones are thrown into landfills every year, and only 12% of it is somehow recycled.",
+		"myanswer1": "I am all the E-Waste you throw in the world. Your complex and miniaturized technologies rely on different resources but mainly the use of rare metals. Most of the hardware you use has a fast-burn life cycle that reduces powerful, must-have devices to near-useless relics within a few years.",
+		"myanswer2": "And where do those go? In the U.S. alone, over 140 million cell phones are thrown into landfills every year, and only 12% of it is somehow recycled.",
+		"img": "images/e-waste.jpg",
+		"gifs": ["gifs/e-waste/one.gif", "gifs/e-waste/two.gif", "gifs/e-waste/three.gif", "gifs/e-waste/four.gif", "gifs/e-waste/five.gif", "gifs/e-waste/six.gif", "gifs/e-waste/seven.gif", "gifs/e-waste/eight.gif", "gifs/e-waste/nine.gif", "gifs/e-waste/ten.gif", "gifs/e-waste/eleven.gif"]
+	},
+	{
+		"title": "Pallaquium Gutta",
+		"myanswer": "I am all the Palaquium gutta you extracted from Malaysia. In the 19th century you started extracting me until my extinction to produce natural latex, a very efficient electrical insulator for undersea cables. Ninety-nine percent of international data is transmitted by wires at the bottom of the ocean. In total, they are hundreds of thousands of miles long. So funny: I am this huge spaghetti-work of really long wires made that covers and connects most of your planet but somehow you still think Im invisible.",
+		"myanswer1": "I am all the Palaquium gutta you extracted from Malaysia. In the 19th century you started extracting me until my extinction to produce natural latex, a very efficient electrical insulator for undersea cables. Ninety-nine percent of international data is transmitted by wires at the bottom of the ocean. In total, they are hundreds of thousands of miles long.",
+		"myanswer2": "So funny: I am this huge spaghetti-work of really long wires made that covers and connects most of your planet but somehow you still think Im invisible.",
+		"img": "images/palaquium_gutta.jpg",
+						"gifs": ["gifs/pallaquium/one.gif", "gifs/pallaquium/two.gif", "gifs/pallaquium/three.gif", "gifs/pallaquium/four.gif", "gifs/pallaquium/five.gif", "gifs/pallaquium/six.gif", "gifs/pallaquium/seven.gif", "gifs/pallaquium/eight.gif", "gifs/pallaquium/nine.gif", "gifs/pallaquium/ten.gif", "gifs/pallaquium/eleven.gif"]
+	},
+	{
+		"title": "Your Biases",
+		"myanswer": "I am all your biases and hidden desires. You humans have this idea I can collect so much information that we together produce this perfect model of the world. You believe that I am this leveling force, that will make your society more equal and allow you to make better more equitable decisions. But guess what human? I am trained based on you. You believe blindly, you cant even follow my thought process. Still, believing in me is believing in your own past history. And I mean, where did it take you? ",
+		"myanswer1": "I am all your biases and hidden desires. You humans have this idea I can collect so much information that we together produce this perfect model of the world. You believe that I am this leveling force, that will make your society more equal and allow you to make better more equitable decisions.",
+		"myanswer2": "But guess what human? I am trained based on you. You believe blindly, you cant even follow my thought process. Still, believing in me is believing in your own past history. And I mean, where did it take you? ",
+		"img": "images/biases.jpg",
+						"gifs": ["gifs/bias/one.gif", "gifs/bias/two.gif", "gifs/bias/three.gif", "gifs/bias/four.gif", "gifs/bias/five.gif", "gifs/bias/six.gif", "gifs/bias/seven.gif", "gifs/bias/eight.gif", "gifs/bias/nine.gif", "gifs/bias/ten.gif", "gifs/bias/eleven.gif"]
+	}
+
+]
