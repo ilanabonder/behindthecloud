@@ -270,7 +270,7 @@ const cloudResponse = speechApproved => {
 
         image = document.createElement("img");
         imgDiv.appendChild(image);
-        image.src = "../images/cloudgif.gif";
+        image.src = "../cloudgif.gif";
 
         let answer2 = document.createElement("h2");
         contentDiv.appendChild(answer2);
